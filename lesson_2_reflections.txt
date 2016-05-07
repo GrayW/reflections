@@ -40,3 +40,13 @@ A:
 --
 Branch out on feature development, allowing you to know exactly when
 it was started and completed.
+
+Q5:
+--
+How do the diagrams help you visualize the branch structure?
+
+A:
+--
+Allows you to see when and what content each branch had when it
+was created, and how far / if at all the master has moved on since
+creation.
