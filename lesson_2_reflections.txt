@@ -61,3 +61,13 @@ A:
 Merges the changes of the coins feature in to the latest master branch.
 It's represented that way because it's common sense. You wouldn't put it
 on the diagram behind an older commit?
+
+Q7:
+--
+What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually?
+
+A:
+--
+Pros: Quicker, Easier
+Cons: I don't know - I'm here to learn, explain it to me!
