@@ -36,3 +36,12 @@ Clone: When you want a full copy of a repo to work on locally
 
 Branch: When you want to work on an issue/feature without fear of breaking
 master
+
+Q4:
+--
+What is the benefit of having a copy of the last known state of the
+remote stored locally?
+
+A:
+--
+??
