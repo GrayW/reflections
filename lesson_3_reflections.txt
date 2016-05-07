@@ -57,3 +57,13 @@ Email, Chat, Sharepoint, Office365/Google Docs
 Would be easier as there is no cloning, pushing, pulling, requests, repos etc
 Harder things would depend entirely on the project but online collab tools
 have come a very long way since this course I guess.
+
+Q6:
+--
+When would you want to make changes in a separate branch rather than
+directly in master? What benefits does each approach have?
+
+A:
+--
+This is pretty much the same question as in a previous lesson.
+Branching > Features / Changes without editing master.
