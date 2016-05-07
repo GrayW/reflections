@@ -1,0 +1,10 @@
+Q1:
+--
+What happens when you initialize a repository? Why do you
+need to do it?
+
+A:
+--
+It creates the hidden .git folder and sets the directory as
+a git repo that needs to be tracked?
+You need to do this so you can track and commit the files?
