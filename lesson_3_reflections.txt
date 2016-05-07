@@ -17,3 +17,22 @@ A:
 If there are multiple contributors and a change is made, automatically
 staying up to date could cause issues?
 Manually pulling means you know exactly what you are working with?
+
+Q3:
+--
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+A:
+--
+Fork: GitHub to GitHub Clone
+Clone: Local/Local Local/Remote Clone
+Branch: Local/Remote off-shoot from master
+
+Fork: When wanting to make changes to someone else's repo but give credit
+and not have any of their changes affect you
+
+Clone: When you want a full copy of a repo to work on locally
+
+Branch: When you want to work on an issue/feature without fear of breaking
+master
