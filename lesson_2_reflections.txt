@@ -50,3 +50,14 @@ A:
 Allows you to see when and what content each branch had when it
 was created, and how far / if at all the master has moved on since
 creation.
+
+Q6:
+--
+What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do?
+
+A:
+--
+Merges the changes of the coins feature in to the latest master branch.
+It's represented that way because it's common sense. You wouldn't put it
+on the diagram behind an older commit?
