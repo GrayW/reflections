@@ -30,3 +30,13 @@ A:
 Once you have made the logical change and saved - you would stop
 working on that file to add to the staging area ready to commit.
 You would also consider the commit type and subject.
+
+Q4:
+--
+What are some situations when branches would be helpful in keeping
+your history organized? How would branches help?
+
+A:
+--
+Branch out on feature development, allowing you to know exactly when
+it was started and completed.
