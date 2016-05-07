@@ -8,3 +8,25 @@ A:
 It creates the hidden .git folder and sets the directory as
 a git repo that needs to be tracked?
 You need to do this so you can track and commit the files?
+
+Q2:
+--
+How is the staging area different from the working directory
+and the repository? What value do you think it offers?
+
+A:
+--
+Working directory contains all files to be edited and worked on.
+Staging area contains files you have finished working on and ready
+to commit?
+
+Q3:
+--
+How can you use the staging area to make sure you have one commit
+per logical change?
+
+A:
+--
+Once you have made the logical change and saved - you would stop
+working on that file to add to the staging area ready to commit.
+You would also consider the commit type and subject.
