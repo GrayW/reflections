@@ -45,3 +45,15 @@ remote stored locally?
 A:
 --
 ??
+
+Q5:
+--
+How would you collaborate without using Git or GitHub? What would be
+easier, and what would be harder?
+
+A:
+--
+Email, Chat, Sharepoint, Office365/Google Docs
+Would be easier as there is no cloning, pushing, pulling, requests, repos etc
+Harder things would depend entirely on the project but online collab tools
+have come a very long way since this course I guess.
